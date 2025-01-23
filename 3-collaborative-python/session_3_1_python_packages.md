@@ -580,7 +580,7 @@ setup(
     description='An example Python module',
     author='Mr. Neutron',
     author_email='python@equs.org',
-    packages=['example_package']
+    packages=['example_pkg']
 )
 ```
 
